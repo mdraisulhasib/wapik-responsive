@@ -1,0 +1,108 @@
+@media(max-width: 1399px){
+	.responsive-section{
+		background-position-x:40%;
+		background-color: #eff1ec; 
+	}
+}
+@media(max-width: 1199px){
+	.navbar span {
+    width: 30%;
+    padding-left: 20px;
+}
+.navbar .container {
+    border-bottom: 1px solid #8c8f8f;
+    padding: 16px 0;
+    }
+    .banner-content {
+   text-align: center;
+   padding: 120px 0;
+}
+.jc{
+	justify-content: center;
+}
+.btn-custom {
+    padding: 16px 35px;
+}
+.feature-section {
+    padding: 50px 0;
+}
+.responsive-section {
+    background-size: cover;
+}
+.feedback-section {
+    padding: 60px 0;
+}
+.img-fluid {
+    max-width: 60%;
+}
+.feedback p {
+    max-width: 500px;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.details-section {
+    background-size: 50%;
+}
+.btn-custom-reverse {
+    padding: 15px 20px;
+    font-size: 13px; 
+}
+    .pricing-plan-section {
+    padding: 70px 0;
+}
+.download h2 {
+    font-size: 24px;
+    color: #0f5f5c;
+    font-weight: 700;
+}
+.free a {
+    font-size: 13px;
+    padding: 18px 35px;
+}
+	}
+@media(max-width: 991px){
+	.banner-content p {
+    font-size: 15px;
+}
+	.banner-content h1 {
+    font-size: 40px;
+    font-weight: 600;
+}
+.banner-content {
+    padding-bottom: 110px;
+    padding-top: 70px;
+}
+.details-section {
+    padding: 70px 0;
+}
+.details-section {
+    background-size: 45%;
+}
+.details p {
+    font-size: 13px;
+    text-align: center;
+}
+.details h2 {
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.btn-custom-reverse {
+    font-size: 12px;
+    padding: 18px 22px;
+	}
+	.download h2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.navbar span {
+    border-left: 0px solid #8c8f8f;
+}
+	}
+@media(max-width: 767px){
+	
+}
+@media(max-width: 575px){
+	
+}
